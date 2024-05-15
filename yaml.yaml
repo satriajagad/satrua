@@ -1,5 +1,0 @@
-title: My Awesome Site
-description: This is my awesome site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://satriajagad.github.io/msatriajagad.github.io/" # URL situs Anda
-theme: jekyll-theme-primer
